@@ -1,6 +1,5 @@
-# PythonVsC-
-Algoritmos empleados en la comparativa de un lenguaje compilado vs interpretados
+# PythonVs C-Sharp
+Algoritmos empleados en la comparativa de un lenguaje compilado (C-Sharp) vs interpretado(Python)
 
-Los algoritmos cumplen tareas enfocadas en :
-Ordenamiento
-Inserccion y Busqueda en Arboles
+# Los algoritmos cumplen tareas enfocadas en :
+Ordenamiento, insercción y busqueda en árboles.
